@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\Aritmetica",
+            "name": "Aritmetica",
+            "summary": "",
+            "url": "classes/Aritmetica.html"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003Asuma\u0028\u0029",
+            "name": "suma",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method_suma"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003Aresta\u0028\u0029",
+            "name": "resta",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method_resta"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003Amultiplicacion\u0028\u0029",
+            "name": "multiplicacion",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method_multiplicacion"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003Adivision\u0028\u0029",
+            "name": "division",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method_division"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003AgetUltimaResultado\u0028\u0029",
+            "name": "getUltimaResultado",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method_getUltimaResultado"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003A__toString\u0028\u0029",
+            "name": "__toString",
+            "summary": "",
+            "url": "classes/Aritmetica.html#method___toString"
+        },                {
+            "fqsen": "\\Aritmetica\u003A\u003A\u0024ultimoResultado",
+            "name": "ultimoResultado",
+            "summary": "",
+            "url": "classes/Aritmetica.html#property_ultimoResultado"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
